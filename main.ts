@@ -7,6 +7,8 @@
 // written and the program refuses to write anything longer.
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// The joke lands because the appliance treats a burnt bagel as a legal
+// dispute: the toaster is not apologising, it is serving notice.
 const LINE =
   "ERROR: The bagel has retained counsel. Any further toasting will be billed.";
 
